@@ -1,0 +1,1 @@
+# psc.mahjong.hexo
