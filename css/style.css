@@ -128,7 +128,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .outer {
-  max-width: 1220px;
+  max-width: 1320px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -143,8 +143,8 @@ body {
 .inner {
   display: inline;
   float: left;
-  width: 98.33333333333333%;
-  margin: 0 0.833333333333333%;
+  width: 98.46153846153847%;
+  margin: 0 0.769230769230769%;
 }
 .left,
 .alignleft {
@@ -183,8 +183,8 @@ body {
   #main {
     display: inline;
     float: left;
-    width: 73.33333333333333%;
-    margin: 0 0.833333333333333%;
+    width: 75.38461538461539%;
+    margin: 0 0.769230769230769%;
   }
 }
 .article-date,
@@ -308,7 +308,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 300px;
+  height: 600px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -356,31 +356,32 @@ body {
 }
 #header-title {
   text-align: center;
-  height: 40px;
+  height: 100px;
   position: absolute;
   top: 50%;
   left: 0;
-  margin-top: -20px;
+  margin-top: -50px;
 }
 #logo,
 #subtitle {
   text-decoration: none;
-  color: #fff;
-  font-weight: 300;
+  color: #f55291;
+  -webkit-text-stroke: 3px #fff;
+  font-weight: 900;
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 #logo {
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 100px;
+  line-height: 100px;
   letter-spacing: 2px;
 }
 #subtitle {
-  font-size: 16px;
-  line-height: 16px;
+  font-size: 80px;
+  line-height: 80px;
   letter-spacing: 1px;
 }
 #subtitle-wrap {
-  margin-top: 16px;
+  margin-top: 80px;
 }
 #main-nav {
   float: left;
@@ -1291,8 +1292,8 @@ pre .javascript .function {
   #sidebar {
     display: inline;
     float: left;
-    width: 23.333333333333332%;
-    margin: 0 0.833333333333333%;
+    width: 21.53846153846154%;
+    margin: 0 0.769230769230769%;
   }
 }
 .widget-wrap {
