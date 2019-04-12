@@ -376,7 +376,7 @@ body {
   letter-spacing: 2px;
 }
 #subtitle {
-  font: 80px font-header;
+  font-size: 80px;
   line-height: 80px;
   letter-spacing: 1px;
 }
